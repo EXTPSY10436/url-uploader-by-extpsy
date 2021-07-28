@@ -1,29 +1,5 @@
 ## Telegram URL Uploader Bot
 
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
-
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
-
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
-
-### Features
-
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
-
-👉 Upload as file from any HTTP link
-
-👉 Permanent thumbnail support.
-
-👉 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
-
-
-
-### Installation
-
-#### The Easiest Way
-
-**Upgrade** your subscription for [JakeeDot](https://t.me/JakeeDot) without having to run anything on your own
-
 #### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Jakeedot/URLUploaderBot)
